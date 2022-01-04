@@ -107,7 +107,7 @@
 	
 
 	<build>
-		<finalName>boa-App</finalName>
+		<finalName>MavenEnterpriseApplication</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.apache.maven.plugins</groupId>
